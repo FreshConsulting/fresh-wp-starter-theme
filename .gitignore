@@ -1,5 +1,7 @@
 # Dont't track this
 node_modules/
+dist
+yarn.lock
 
 
 # Packages #
