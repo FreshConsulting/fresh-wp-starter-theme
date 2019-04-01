@@ -15,7 +15,7 @@ module.exports = merge(baseConfig, {
           './*.php',
           './js/*.js'
         ],
-        proxy: 'http://local.wp.test/',
+        proxy: 'http://local.wp.test/',// change this to your current URL
         notify: true
       })
     ]

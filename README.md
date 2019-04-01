@@ -24,6 +24,7 @@ Getting Started
 * yarn
 * yarn dev (for development)
 * yarn dev (for production)
+* change proxy url to match your local dev url in /webpack/dev.config.js
 
 `Requirements`
 * node v >= 8.0.0
